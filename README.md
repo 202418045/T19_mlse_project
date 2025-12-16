@@ -5,7 +5,7 @@
 | Name | SID |
 |------|-----|
 | Aruni Saxena | 202418006 |
-| Heer Choksi | 202418019 |
+| Heer Chokshi | 202418019 |
 | Paarth Patel | 202418045 |
 | Yash Deshmukh | 202418063 |
 
@@ -219,3 +219,4 @@ For complete understanding of:
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
