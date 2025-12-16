@@ -216,7 +216,32 @@ For complete understanding of:
 
 **See [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)**
 
+## 🚀 Future Scope
+
+This project lays the foundation for a scalable multimodal Retrieval-Augmented Generation (RAG) system for epic-based storytelling and knowledge preservation. Several important extensions can be explored in future iterations:
+
+Generalized Indian Mythology Model
+Extend the system into a unified model capable of understanding and reasoning across multiple Indian epics and mythological traditions, including the Ramayana, Mahabharata, Puranas, and regional folklore. The goal is to capture shared narrative structures, characters, themes, and symbolism.
+
+Expanded Knowledge Base & Knowledge Graphs
+Incorporate larger, structured knowledge bases and mythology-specific knowledge graphs to enable deeper reasoning over characters, events, timelines, and relationships across different epics and versions.
+
+Multilingual & Cross-Script Support
+Enable retrieval and generation in multiple Indian languages and scripts (e.g., Sanskrit, Hindi, Tamil, Telugu), improving accessibility while preserving cultural authenticity.
+
+Version-Aware and Canon-Aware Retrieval
+Support multiple interpretations and retellings of the same epic by allowing users to choose specific sources or traditions, reducing ambiguity and improving factual grounding.
+
+Stronger Multimodal Consistency
+Improve text-to-image and image-to-text alignment to ensure visual outputs remain symbolically and culturally consistent with retrieved textual context.
+
+Interactive Educational Applications
+Adapt the system for educational use cases such as visual storytelling, scripture-grounded Q&A, and interactive learning tools for students and researchers.
+
+Ethical Guardrails & Cultural Preservation
+Integrate guardrails to minimize hallucinations, ensure source attribution, and prevent cultural misrepresentation, supporting responsible AI-based cultural preservation.
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
 
