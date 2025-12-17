@@ -13,7 +13,12 @@
 
 # 🕉️ Verse2Vision: Bidirectional Multimodal RAG System
 
+
 A **Bidirectional Multimodal Retrieval-Augmented Generation (RAG)** system that transforms epic text into visual storytelling and interprets mythological images into authenticated narratives using a shared knowledge base grounded in Indian epics.
+Experience the Verse2Vision system here:[![Live Demo](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://visiontoverse.streamlit.app/)
+
+Watch the full demo of our system here:[![Watch Demo](https://img.shields.io/badge/Watch–Demo–Video-red)](https://drive.google.com/file/d/1buxRwn0CSJUd9Bjlmq7uSWBL_mYtfrt9/view?usp=sharing)
+
 
 ## 📚 Complete Documentation
 
@@ -46,6 +51,9 @@ This system works in **two directions**:
 - **Context Grounding**: All outputs are anchored to retrieved knowledge rather than free hallucination
 - **No Custom Training**: Uses existing LLM and vision/image models with RAG pipeline
 - **Expandable**: New datasets or art styles can be added without rebuilding the core system
+- **Text-to-Speech (Google TTS)**: Converts generated epic narratives, explanations, and verses into natural-sounding speech using Google Text-to-Speech, enabling audio-based interaction.
+- **Multilingual Understanding**: Supports epic content written in multiple languages and scripts by embedding combined fields (original text, transliteration, and meanings), enabling cross-lingual retrieval and generation.
+
 
 ## 📁 Project Structure
 
@@ -236,6 +244,7 @@ Integrate guardrails to minimize hallucinations, ensure source attribution, and 
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
 
 
 
