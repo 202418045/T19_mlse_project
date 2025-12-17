@@ -21,12 +21,12 @@ Experience the Verse2Vision system here:[![Live Demo](https://img.shields.io/bad
 Watch the full demo of our system here: [![Watch Demo](https://img.shields.io/badge/Watch–Demo–Video-red)](https://drive.google.com/file/d/1buxRwn0CSJUd9Bjlmq7uSWBL_mYtfrt9/view?usp=sharing)
 
 
-## 📚 Complete Documentation
+## Complete Documentation
 
 For detailed technical documentation, architecture, workflow, and cultural preservation philosophy, see:
 - **[PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)** - Complete project documentation with all details
 
-## 🎯 Project Overview
+## Project Overview
 
 This system works in **two directions**:
 
@@ -245,6 +245,7 @@ Integrate guardrails to minimize hallucinations, ensure source attribution, and 
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
 
 
 
