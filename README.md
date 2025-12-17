@@ -15,9 +15,10 @@
 
 
 A **Bidirectional Multimodal Retrieval-Augmented Generation (RAG)** system that transforms epic text into visual storytelling and interprets mythological images into authenticated narratives using a shared knowledge base grounded in Indian epics.
+
 Experience the Verse2Vision system here:[![Live Demo](https://img.shields.io/badge/Streamlit-App-brightgreen)](https://visiontoverse.streamlit.app/)
 
-Watch the full demo of our system here:[![Watch Demo](https://img.shields.io/badge/Watch–Demo–Video-red)](https://drive.google.com/file/d/1buxRwn0CSJUd9Bjlmq7uSWBL_mYtfrt9/view?usp=sharing)
+Watch the full demo of our system here: [![Watch Demo](https://img.shields.io/badge/Watch–Demo–Video-red)](https://drive.google.com/file/d/1buxRwn0CSJUd9Bjlmq7uSWBL_mYtfrt9/view?usp=sharing)
 
 
 ## 📚 Complete Documentation
@@ -244,6 +245,7 @@ Integrate guardrails to minimize hallucinations, ensure source attribution, and 
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
 
 
 
