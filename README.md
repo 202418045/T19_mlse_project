@@ -168,14 +168,7 @@ The app includes error handling for:
 - Image processing errors
 
 ## 🎨 Image Generation Options
-
-1. **Text Prompt Only** (Default): Copy the generated prompt and use with:
-   - DALL·E
-   - Midjourney
-   - Stable Diffusion (online)
-   - Other image generation tools
-
-2. **Pollinations AI** (Default): Free cloud-based image generation:
+ **Pollinations AI** (Default): Free cloud-based image generation:
    - No API key required
    - Fast and reliable
    - Works on any system with internet
@@ -243,5 +236,6 @@ Integrate guardrails to minimize hallucinations, ensure source attribution, and 
 ## 📝 License
 
 This project is designed for educational and research purposes.
+
 
 
